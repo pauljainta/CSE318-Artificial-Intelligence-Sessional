@@ -1,0 +1,63 @@
+For Data d10-01.txt
+
+For recursive BT with Smallest domain first:Number of Nodes=229, Number of BackTracks=171
+For recursive BT with Random selection:Number of Nodes=25827, Number of BackTracks=25769
+For recursive BT with Breluz heuristics:Number of Nodes=58, Number of BackTracks=0
+For recursive BT with Domddeg heuristics:Number of Nodes=58, Number of BackTracks=0
+
+For Forward Check with Smallest domain first:Number of Nodes=214, Number of BackTracks=171
+For Forward Check with Random Selection:Number of Nodes=7540, Number of BackTracks=11077
+For Forward Check with Breluz heuristics:Number of Nodes=58, Number of BackTracks=0
+For Forward Check with Domddeg heuristics:Number of Nodes=58, Number of BackTracks=0
+
+
+For data d10-06.txt
+
+For recursive BT with Smallest domain first:Number of Nodes=58, Number of BackTracks=0
+For recursive BT with Random selection:Number of Nodes=1474, Number of BackTracks=1416
+For recursive BT with Breluz heuristics:Number of Nodes=58, Number of BackTracks=0
+For recursive BT with Domddeg heuristics:Number of Nodes=58, Number of BackTracks=0
+
+For Forward Check with Smallest domain first:Number of Nodes=58, Number of BackTracks=0
+For Forward Check with Random Selection:Number of Nodes=478, Number of BackTracks=633
+For Forward Check with Breluz heuristics:Number of Nodes=58, Number of BackTracks=0
+For Forward Check with Domddeg heuristics:Number of Nodes=58, Number of BackTracks=0
+
+
+For data d10-07.txt
+
+For recursive BT with Smallest domain first:Number of Nodes=575, Number of BackTracks=517
+For recursive BT with Random selection:Number of Nodes=24005, Number of BackTracks=23947
+For recursive BT with Breluz heuristics:Number of Nodes=377, Number of BackTracks=319
+For recursive BT with Domddeg heuristics:Number of Nodes=463, Number of BackTracks=405
+
+For Forward Check with Smallest domain first:Number of Nodes=538, Number of BackTracks=517
+For Forward Check with Random Selection:Number of Nodes=2760, Number of BackTracks=4119
+For Forward Check with Breluz heuristics:Number of Nodes=354, Number of BackTracks=319
+For Forward Check with Domddeg heuristics:Number of Nodes=432, Number of BackTracks=405
+
+For Data d10-08.txt
+
+
+For recursive BT with Smallest domain first:Number of Nodes=301, Number of BackTracks=243
+For recursive BT with Random selection:Number of Nodes=5064, Number of BackTracks=5006
+For recursive BT with Breluz heuristics:Number of Nodes=82, Number of BackTracks=24
+For recursive BT with Domddeg heuristics:Number of Nodes=86, Number of BackTracks=28
+
+For Forward Check with Smallest domain first:Number of Nodes=279, Number of BackTracks=243
+For Forward Check with Random Selection:Number of Nodes=2116, Number of BackTracks=2952
+For Forward Check with Breluz heuristics:Number of Nodes=79, Number of BackTracks=24
+For Forward Check with Domddeg heuristics:Number of Nodes=82, Number of BackTracks=28
+
+
+For Data d10-09.txt
+
+For recursive BT with Smallest domain first:Number of Nodes=58, Number of BackTracks=0
+For recursive BT with Random selection:Number of Nodes=6175, Number of BackTracks=6117
+For recursive BT with Breluz heuristics:Number of Nodes=5591, Number of BackTracks=5533
+For recursive BT with Domddeg heuristics:Number of Nodes=5868, Number of BackTracks=5810
+
+For Forward Check with Smallest domain first:Number of Nodes=58, Number of BackTracks=0
+For Forward Check with Random Selection:Number of Nodes=2215, Number of BackTracks=3228
+For Forward Check with Breluz heuristics:Number of Nodes=4978, Number of BackTracks=5533
+For Forward Check with Domddeg heuristics:Number of Nodes=5198, Number of BackTracks=5810
